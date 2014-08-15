@@ -1,0 +1,22 @@
+{
+    "mash": {
+        "water_volume": 27,
+        "temp": 22,
+        "rests": [
+            {"temp": 22, "duration": 5 },
+            {"temp": 22, "duration": 5 }
+        ]
+    },
+    "boil_duration": 5,
+    "hops": [
+        {
+            "when": 5,
+            "what": "28gr Cascade"
+        },
+        {
+            "when": 5,
+            "what": "14gr Cascade"
+        }
+    ],
+    "final_temp": 21
+}
